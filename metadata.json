@@ -1,0 +1,8 @@
+{
+  "name": "SHAHI AGRO FARM",
+  "description": "Premium agricultural e-commerce app for SHAHI AGRO FARM grass silage and pure cow ghee in Bangladesh",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

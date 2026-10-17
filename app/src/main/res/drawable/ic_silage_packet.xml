@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M10,8 L38,8 C40,8 42,10 42,12 L39,40 C39,42 37,44 35,44 L13,44 C11,44 9,42 9,40 L6,12 C6,10 8,8 10,8 Z" />
+    <path
+        android:fillColor="#1B5E20"
+        android:pathData="M6,12 L42,12 L40,16 L8,16 Z" />
+    <!-- Straw / silage bag ties -->
+    <path
+        android:fillColor="#81C784"
+        android:pathData="M16,18 L32,18 L31,24 L17,24 Z" />
+    <!-- Wheat/forage emblem -->
+    <path
+        android:fillColor="#FFF"
+        android:pathData="M24,26 C26,26 28,28 28,30 C28,33 24,36 24,36 C24,36 20,33 20,30 C20,28 22,26 24,26 Z" />
+    <path
+        android:strokeColor="#FFF"
+        android:strokeWidth="1.5"
+        android:pathData="M24,24 L24,38" />
+</vector>

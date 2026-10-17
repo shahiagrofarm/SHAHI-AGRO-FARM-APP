@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Jar lid -->
+    <path
+        android:fillColor="#8D5B18"
+        android:pathData="M16,6 L32,6 C33,6 34,7 34,8 L34,12 L14,12 L14,8 C14,7 15,6 16,6 Z" />
+    <path
+        android:fillColor="#B77C2B"
+        android:pathData="M12,12 L36,12 C37,12 38,13 38,14 L38,16 L10,16 L10,14 C10,13 11,12 12,12 Z" />
+    <!-- Glass Jar body -->
+    <path
+        android:fillColor="#FFF8E1"
+        android:strokeColor="#FFB300"
+        android:strokeWidth="1.5"
+        android:pathData="M12,16 L36,16 C38,16 40,18 40,20 L38,40 C38,42 36,44 34,44 L14,44 C12,44 10,42 10,40 L8,20 C8,18 10,16 12,16 Z" />
+    <!-- Golden Ghee inside -->
+    <path
+        android:fillColor="#FFCA28"
+        android:pathData="M10,24 C14,23 20,25 24,24 C28,23 34,25 38,24 L37,40 C37,41.5 35.5,43 33.5,43 L14.5,43 C12.5,43 11,41.5 11,40 Z" />
+    <!-- Label -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M14,28 L34,28 C35,28 35.5,28.5 35.5,29.5 L35.5,35.5 C35.5,36.5 35,37 34,37 L14,37 C13,37 12.5,36.5 12.5,35.5 L12.5,29.5 C12.5,28.5 13,28 14,28 Z" />
+    <!-- Label text stripe -->
+    <path
+        android:fillColor="#155D27"
+        android:pathData="M16,31 L32,31 L32,33 L16,33 Z" />
+</vector>

@@ -1,0 +1,40 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <!-- Red sphere background with subtle radial gradient illusion -->
+    <path
+        android:fillColor="#D8232A"
+        android:pathData="M60,60m-54,0a54,54 0,1,1 108,0a54,54 0,1,1 -108,0" />
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M60,8 A52,52 0 0,1 112,60 A52,52 0 0,1 60,112 A52,52 0 0,1 8,60 A52,52 0 0,1 60,8 Z" />
+    <path
+        android:fillColor="#C62828"
+        android:pathData="M60,60m-52,0a52,52 0,1,0 104,0a52,52 0,1,0 -104,0"
+        android:strokeAlpha="0.2" />
+
+    <!-- Dynamic white swooshes wrapping across the globe -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M18,48 C28,40 45,35 68,36 C54,40 36,46 22,55 C19,53 18,50 18,48 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M14,60 C26,50 50,44 82,46 C64,52 40,60 22,70 C16,66 14,63 14,60 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M16,74 C30,62 60,55 98,58 C76,66 48,76 26,86 C20,82 17,78 16,74 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,88 C40,75 72,68 112,70 C88,80 58,92 34,98 C28,95 25,91 24,88 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,100 C54,88 80,82 108,84 C88,93 64,103 48,107 C43,105 40,102 38,100 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,38 C32,30 46,26 62,26 C50,29 38,34 28,42 C26,40 25,39 24,38 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,28 C44,22 56,19 68,20 C58,22 48,26 40,32 C38,30 36,29 35,28 Z" />
+</vector>
